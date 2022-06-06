@@ -1,0 +1,17 @@
+.title {
+  text-align: center;
+}
+
+.text-blue {
+  color: blue;
+}
+
+.background-blue {
+  background-color: blue;
+}
+
+.background-black {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
